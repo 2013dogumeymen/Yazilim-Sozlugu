@@ -1,0 +1,10 @@
+- **Web Server (Web Sunucusu)** - Web tarayıcılarından gelen talepleri işleyerek web sayfalarını sunan sunucu.
+- **Webhook** - Bir olay gerçekleştiğinde başka bir uygulamaya gerçek zamanlı veri göndermek için kullanılan HTTP tabanlı geri bildirim.
+- **Wireless (Kablosuz)** - Fiziksel kablo bağlantısı olmadan iletişim sağlayan teknoloji.
+- **WAN (Wide Area Network - Geniş Alan Ağı)** - Birden fazla yerel alan ağını birbirine bağlayan geniş alan ağı.
+- **Wi-Fi** - Kablosuz yerel ağ bağlantısı sağlayan teknoloji.
+- **Wrapper (Sarmalayıcı)** - Başka bir işlev veya sınıfın işlevselliğini genişleten veya saran kod yapısı.
+- **WYSIWYG (What You See Is What You Get)** - Kullanıcıların düzenleme sırasında nihai görünümü görebildiği arayüz (örneğin, web tasarım araçları).
+- **WordPress** - Web siteleri ve bloglar oluşturmak için yaygın olarak kullanılan açık kaynaklı içerik yönetim sistemi.
+- **Widget** - Kullanıcı arayüzünde bilgi veya işlev sağlayan küçük bir bileşen veya uygulama.
+- **WebRTC (Web Real-Time Communication)** - Tarayıcılar ve mobil uygulamalar arasında gerçek zamanlı ses ve görüntü aktarımı sağlayan teknoloji.
