@@ -1,3 +1,5 @@
+# E
+
 •	Encryption (Şifreleme) - Verileri gizlemek için dönüştürme süreci.
 
  •	Exception (İstisna) - Kod çalışırken oluşan beklenmedik durumlar.
