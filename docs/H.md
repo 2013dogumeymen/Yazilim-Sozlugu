@@ -1,3 +1,5 @@
+# H
+
 •	HTML (Hypertext Markup Language) - Web sayfalarının yapısını tanımlamak için kullanılan işaretleme dili.
 	
  •	HTTP (Hypertext Transfer Protocol) - Web tarayıcısı ile sunucu arasındaki iletişimi sağlayan protokol.
