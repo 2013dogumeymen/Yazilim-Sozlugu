@@ -1,0 +1,10 @@
+- **Server (Sunucu)** - Diğer cihazlara veya kullanıcıya hizmet sağlayan bilgisayar veya yazılım.
+- **Software (Yazılım)** - Bilgisayarda çalışan programlar ve uygulamalar.
+- **Script (Betik)** - Belirli görevleri yerine getirmek için yazılmış küçük bir program veya komut dizisi.
+- **SQL (Structured Query Language)** - Veritabanlarıyla etkileşim kurmak için kullanılan yapılandırılmış sorgu dili.
+- **Source Code (Kaynak Kodu)** - Bir programın insan tarafından okunabilir biçimde yazılmış orijinal kodu.
+- **SDK (Software Development Kit)** - Belirli platformlar veya uygulamalar için yazılım geliştirmeyi kolaylaştıran araç seti.
+- **Shell (Kabuk)** - Kullanıcıların komutlar girerek işletim sistemiyle etkileşime geçtiği arayüz.
+- **Semaphore (Semafor)** - Eşzamanlı işlemler arasında senkronizasyon sağlamak için kullanılan değişken veya nesne.
+- **Stack (Yığın)** - LIFO (Last In, First Out) prensibine göre çalışan veri yapısı.
+- **SSL (Secure Sockets Layer)** - İnternet üzerindeki veri iletimini güvenli hale getiren güvenlik protokolü.
