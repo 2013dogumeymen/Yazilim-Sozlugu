@@ -1,3 +1,5 @@
+# J
+
 •	Java - Platform bağımsız bir programlama dili.
 
 •	JavaScript - Web sayfalarına etkileşim kazandırmak için kullanılan popüler bir programlama dili.
