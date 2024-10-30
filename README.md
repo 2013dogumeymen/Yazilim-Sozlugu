@@ -31,3 +31,5 @@ Bu Sözlük Açık Kaynaklıdır, [MIT lisansı](/LICENSE) ile lisanlandırılm�
 [X](docs/X.md)
 [Y](docs/Y.md)
 [Z](docs/Z.md)
+
+[rockeymen.site](rockeymen.site)
