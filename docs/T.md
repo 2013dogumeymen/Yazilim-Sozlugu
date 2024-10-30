@@ -1,0 +1,10 @@
+- **TCP (Transmission Control Protocol)** - İletişim kurarken verilerin güvenilir bir şekilde aktarılmasını sağlayan protokol.
+- **Thread (İş Parçacığı)** - Program içinde bağımsız çalışabilen bir yürütme birimi.
+- **Token** - Kimlik doğrulama ve yetkilendirme işlemlerinde kullanılan güvenlik anahtarı.
+- **Template (Şablon)** - Belirli bir yapıda verilerin düzenlenmesini sağlayan taslak yapı.
+- **TypeScript** - JavaScript üzerine kurulu, statik tip desteği sağlayan bir programlama dili.
+- **Transaction (İşlem)** - Veritabanında gerçekleştirilen, bütünlük ve tutarlılık sağlayan işlem birimi.
+- **Tuple (Demet)** - Birden fazla değeri bir arada tutan veri yapısı, değerler değiştirilemez.
+- **Testing (Test Etme)** - Yazılımın doğruluğunu ve güvenilirliğini sağlamak amacıyla yapılan doğrulama işlemi.
+- **Tree (Ağaç)** - Hiyerarşik veri ilişkilerini temsil eden, düğümlerden oluşan bir veri yapısı.
+- **Tokenization (Belirteçleme)** - Metinlerin kelimelere veya belirteçlere ayrılması işlemi, özellikle doğal dil işleme (NLP) alanında kullanılır.
