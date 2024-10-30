@@ -1,3 +1,5 @@
+# G
+
 •	Git - Dağıtık versiyon kontrol sistemi, kod değişikliklerini izlemek için kullanılır.
 
  •	GUI (Graphical User Interface) - Kullanıcıların görsel elemanlar aracılığıyla etkileşimde bulunduğu arayüz.
