@@ -1,3 +1,5 @@
+# K
+
 •	Kernel (Çekirdek) - İşletim sisteminin donanım ve yazılım kaynaklarını yöneten temel bileşeni.
 	•	Keyword (Anahtar Kelime) - Programlama dillerinde özel bir anlam taşıyan ve belirli işlemleri ifade eden kelimeler (örneğin, if, else, for).
  
