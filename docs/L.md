@@ -1,3 +1,5 @@
+# L
+
 •	Library (Kütüphane) - Belirli işlevleri kolaylaştıran, yeniden kullanılabilir kod parçalarının toplandığı yapı.
 
  •	Linux - Açık kaynak kodlu bir işletim sistemi çekirdeği (kernel). Üzerine çeşitli yazılımlar ve araçlar eklenerek tam teşekküllü işletim sistemi dağıtımları (örneğin, Ubuntu, Fedora, Arch Linux) oluşturulur.
