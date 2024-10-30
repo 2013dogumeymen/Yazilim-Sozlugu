@@ -1,3 +1,5 @@
+# D
+
 DataBase - verilerin düzenli tutulduğu yer
 
 DNS (Domain Name Server) - sitelerin IP adreslerinin example.org'a dönüştürür
