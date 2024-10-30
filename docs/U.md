@@ -1,0 +1,10 @@
+- **UI (User Interface - Kullanıcı Arayüzü)** - Kullanıcıların yazılımla etkileşime geçtiği görsel arayüz.
+- **UDP (User Datagram Protocol)** - Hızlı veri aktarımı için kullanılan, güvenilirliği düşük bir iletişim protokolü.
+- **Unicode** - Farklı dillerdeki karakterleri temsil etmek için kullanılan bir karakter kodlama standardı.
+- **Unit Test (Birim Testi)** - Yazılımın en küçük parçalarını bağımsız olarak test etme süreci.
+- **UML (Unified Modeling Language)** - Yazılım tasarımı için kullanılan görsel modelleme dili.
+- **URI (Uniform Resource Identifier)** - İnternet üzerindeki bir kaynağı tanımlayan benzersiz kimlik.
+- **URL (Uniform Resource Locator)** - Web üzerindeki bir kaynağın adresi (örneğin, web sayfası adresleri).
+- **UX (User Experience - Kullanıcı Deneyimi)** - Kullanıcının yazılımla etkileşim sırasında yaşadığı genel deneyim.
+- **Update (Güncelleme)** - Yazılıma yeni özellikler eklemek veya hataları düzeltmek için yapılan değişiklik.
+- **Unzip** - Sıkıştırılmış bir dosya arşivini açma işlemi.
