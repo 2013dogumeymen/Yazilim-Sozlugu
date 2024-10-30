@@ -1,6 +1,9 @@
 Yazılım Sözlüğü 
 
+<sup> Yazılım Sözlüğü Kar Amacı Gütmemektedir </sup>
+
 Bu Sözlük Açık Kaynaklıdır, [MIT lisansı](/LICENSE) ile lisanlandırılmıştır
+
 
 [A](docs/A.md)
 [B](docs/B.md)
