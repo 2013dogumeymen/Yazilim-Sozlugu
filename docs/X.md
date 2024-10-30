@@ -1,0 +1,9 @@
+- **XML (eXtensible Markup Language)** - Veriyi yapılandırılmış bir formatta saklamak ve iletmek için kullanılan işaretleme dili.
+- **XSS (Cross-Site Scripting)** - Web uygulamalarında görülen, saldırganların kullanıcıların tarayıcısında kötü niyetli komutlar çalıştırmasına olanak tanıyan güvenlik açığı.
+- **XPath** - XML verisinde belirli öğeleri veya değerleri seçmek için kullanılan sorgu dili.
+- **XOR (Exclusive OR - Özel Veya)** - İki değerden yalnızca biri doğruysa sonuç olarak doğru veren mantıksal işlem.
+- **XAML (eXtensible Application Markup Language)** - Microsoft tarafından kullanıcı arayüzleri oluşturmak için geliştirilen işaretleme dili.
+- **Xcode** - Apple tarafından iOS ve macOS uygulamaları geliştirmek için sağlanan bir IDE (Entegre Geliştirme Ortamı).
+- **X-Link** - Cihazlar arasında veri paylaşımını sağlayan bir bağlantı türü.
+- **XML Schema** - XML dosyalarının yapısını ve içeriğini tanımlamak için kullanılan bir şema tanımlama dili.
+- **XaaS (Anything as a Service)** - Bulut bilişimde çeşitli hizmetlerin internet üzerinden sağlanabileceğini ifade eden genel terim.
