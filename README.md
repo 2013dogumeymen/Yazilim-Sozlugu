@@ -1,6 +1,6 @@
 Yazılım Sözlüğü 
 
-Bu Sözlük Açık Kaynaklıdır, [MIT lisansı](/LICENSE.md) ile lisanlandırılmıştır
+Bu Sözlük Açık Kaynaklıdır, [MIT lisansı](/LICENSE) ile lisanlandırılmıştır
 
 [A](https://yazilimsozlugu.org/A.md)
 [B](https://yazilimsozlugu.org/B.md)
