@@ -1,3 +1,5 @@
+# F
+
 •	Function (Fonksiyon) - Belirli bir görevi yerine getiren, tekrar tekrar kullanılabilen kod bloğu.
 
 •	Framework - Uygulama geliştirme sürecini hızlandırmak için önceden yazılmış kütüphaneler ve araçlar topluluğu.
