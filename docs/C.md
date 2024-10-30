@@ -1,3 +1,5 @@
+# C
+
 Compiler(derleyici) - Yüksek seviyeli programlama dilindeki kodu makine diline çeviren yazılım.
 
 CSS - Web sayfalarının görsel tasarımını belirlemek için kullanılan stil dili.
