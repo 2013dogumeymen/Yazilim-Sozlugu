@@ -1,3 +1,5 @@
+# I
+
 •	IDE (Integrated Development Environment) - Yazılım geliştirme için kullanılan tümleşik geliştirme ortamı.
 
  •	IP (Internet Protocol) - Cihazların internette veya yerel ağlarda birbirini tanımasını sağlayan adresleme yöntemi.
