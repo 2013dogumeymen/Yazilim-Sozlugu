@@ -1,8 +1,0 @@
-- **YAML (YAML Ain't Markup Language)** - İnsan tarafından okunabilir veri serileştirme formatı, genellikle yapılandırma dosyalarında kullanılır.
-- **Y2K Problem (Yıl 2000 Problemi)** - 2000 yılına geçişte bilgisayar sistemlerinin tarih hesaplamalarında yaşadığı sorunlar.
-- **Yüksek Seviyeli Dil (High-Level Language)** - İnsan tarafından daha kolay anlaşılabilen, makinaya dönüştürülmeden önce derlenmesi veya yorumlanması gereken programlama dilleri (örneğin, Python, Java).
-- **Yazılım Geliştirme Yaşam Döngüsü (SDLC - Software Development Life Cycle)** - Yazılım geliştirme sürecinin aşamalarını tanımlayan çerçeve.
-- **Yenilikçi Teknolojiler (Emerging Technologies)** - Gelişen ve gelecekte önemli etki yaratması beklenen yeni teknolojiler.
-- **Yetkilendirme (Authorization)** - Bir kullanıcının belirli kaynaklara erişim yetkisi olup olmadığını kontrol etme süreci.
-- **Yedekleme (Backup)** - Verilerin kaybolması durumunda geri yüklemek için yapılan kopyalama işlemi.
-- **Yazılım Mühendisliği (Software Engineering)** - Yazılım geliştirme süreçlerini ve metodolojilerini inceleyen mühendislik dalı.
