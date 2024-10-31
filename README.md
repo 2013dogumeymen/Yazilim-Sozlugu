@@ -4,7 +4,7 @@ Yazılım Sözlüğü, yazılım geliştirme ve bilgisayar bilimi alanında kull
 
 <sup> Yazılım Sözlüğü Kar Amacı Gütmemektedir </sup>
 
-Bu Sözlük Açık Kaynaklıdır, [CC0 (Kamu Malı](/LICENSE) ile lisanlandırılmıştır
+Bu Sözlük Açık Kaynaklıdır, [CC0 (Kamu Malı)](/LICENSE) ile lisanlandırılmıştır
 
 
 [A](docs/A.md)
